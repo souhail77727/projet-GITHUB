@@ -1,0 +1,918 @@
+﻿CRE;SECTION;CANDIDATURE;GENRE;EFFECTIF
+Tunis 1;lettres;Public;M;74
+Tunis 1;lettres;Public;F;383
+Tunis 1;lettres;Privé;M;9
+Tunis 1;lettres;Privé;F;14
+Tunis 1;lettres;Libre;M;
+Tunis 1;lettres;Libre;F;6
+Tunis 1;mathématiques;Public;M;233
+Tunis 1;mathématiques;Public;F;223
+Tunis 1;mathématiques;Privé;M;23
+Tunis 1;mathématiques;Privé;F;7
+Tunis 1;mathématiques;Libre;M;1
+Tunis 1;mathématiques;Libre;F;1
+Tunis 1;sciences expérimentales;Public;M;171
+Tunis 1;sciences expérimentales;Public;F;528
+Tunis 1;sciences expérimentales;Privé;M;15
+Tunis 1;sciences expérimentales;Privé;F;31
+Tunis 1;sciences expérimentales;Libre;M;
+Tunis 1;sciences expérimentales;Libre;F;
+Tunis 1;économie&gestion;Public;M;514
+Tunis 1;économie&gestion;Public;F;776
+Tunis 1;économie&gestion;Privé;M;51
+Tunis 1;économie&gestion;Privé;F;44
+Tunis 1;économie&gestion;Libre;M;8
+Tunis 1;économie&gestion;Libre;F;6
+Tunis 1;sciences techniques;Public;M;150
+Tunis 1;sciences techniques;Public;F;117
+Tunis 1;sciences techniques;Privé;M;4
+Tunis 1;sciences techniques;Privé;F;3
+Tunis 1;sciences techniques;Libre;M;
+Tunis 1;sciences techniques;Libre;F;1
+Tunis 1;sciences de l'informatique;Public;M;272
+Tunis 1;sciences de l'informatique;Public;F;114
+Tunis 1;sciences de l'informatique;Privé;M;9
+Tunis 1;sciences de l'informatique;Privé;F;
+Tunis 1;sciences de l'informatique;Libre;M;
+Tunis 1;sciences de l'informatique;Libre;F;
+Tunis 1;sport;Public;M;67
+Tunis 1;sport;Public;F;52
+Tunis 2;lettres;Public;M;38
+Tunis 2;lettres;Public;F;225
+Tunis 2;lettres;Privé;M;5
+Tunis 2;lettres;Privé;F;8
+Tunis 2;lettres;Libre;M;2
+Tunis 2;lettres;Libre;F;1
+Tunis 2;mathématiques;Public;M;168
+Tunis 2;mathématiques;Public;F;159
+Tunis 2;mathématiques;Privé;M;1
+Tunis 2;mathématiques;Privé;F;5
+Tunis 2;mathématiques;Libre;M;
+Tunis 2;mathématiques;Libre;F;
+Tunis 2;sciences expérimentales;Public;M;138
+Tunis 2;sciences expérimentales;Public;F;446
+Tunis 2;sciences expérimentales;Privé;M;2
+Tunis 2;sciences expérimentales;Privé;F;8
+Tunis 2;sciences expérimentales;Libre;M;
+Tunis 2;sciences expérimentales;Libre;F;3
+Tunis 2;économie&gestion;Public;M;400
+Tunis 2;économie&gestion;Public;F;748
+Tunis 2;économie&gestion;Privé;M;52
+Tunis 2;économie&gestion;Privé;F;42
+Tunis 2;économie&gestion;Libre;M;6
+Tunis 2;économie&gestion;Libre;F;10
+Tunis 2;sciences techniques;Public;M;277
+Tunis 2;sciences techniques;Public;F;152
+Tunis 2;sciences techniques;Privé;M;10
+Tunis 2;sciences techniques;Privé;F;4
+Tunis 2;sciences techniques;Libre;M;
+Tunis 2;sciences techniques;Libre;F;1
+Tunis 2;sciences de l'informatique;Public;M;257
+Tunis 2;sciences de l'informatique;Public;F;189
+Tunis 2;sciences de l'informatique;Privé;M;20
+Tunis 2;sciences de l'informatique;Privé;F;2
+Tunis 2;sciences de l'informatique;Libre;M;
+Tunis 2;sciences de l'informatique;Libre;F;
+Tunis 2;sport;Public;M;17
+Tunis 2;sport;Public;F;14
+Ariana;lettres;Public;M;64
+Ariana;lettres;Public;F;363
+Ariana;lettres;Privé;M;3
+Ariana;lettres;Privé;F;4
+Ariana;lettres;Libre;M;
+Ariana;lettres;Libre;F;2
+Ariana;mathématiques;Public;M;249
+Ariana;mathématiques;Public;F;219
+Ariana;mathématiques;Privé;F;1
+Ariana;mathématiques;Libre;M;
+Ariana;mathématiques;Libre;F;1
+Ariana;sciences expérimentales;Public;M;159
+Ariana;sciences expérimentales;Public;F;573
+Ariana;sciences expérimentales;Privé;M;4
+Ariana;sciences expérimentales;Privé;F;12
+Ariana;sciences expérimentales;Libre;M;
+Ariana;sciences expérimentales;Libre;F;2
+Ariana;économie&gestion;Public;M;411
+Ariana;économie&gestion;Public;F;801
+Ariana;économie&gestion;Privé;M;75
+Ariana;économie&gestion;Privé;F;36
+Ariana;économie&gestion;Libre;M;6
+Ariana;économie&gestion;Libre;F;6
+Ariana;sciences techniques;Public;M;221
+Ariana;sciences techniques;Public;F;115
+Ariana;sciences techniques;Privé;M;5
+Ariana;sciences techniques;Privé;F;2
+Ariana;sciences techniques;Libre;M;
+Ariana;sciences techniques;Libre;F;3
+Ariana;sciences de l'informatique;Public;M;374
+Ariana;sciences de l'informatique;Public;F;187
+Ariana;sciences de l'informatique;Privé;M;17
+Ariana;sciences de l'informatique;Privé;F;4
+Ariana;sciences de l'informatique;Libre;M;1
+Ariana;sciences de l'informatique;Libre;F;1
+Ariana;sport;Public;M;16
+Ariana;sport;Public;F;14
+Ariana;sport;Libre;M;
+Mannouba;lettres;Public;M;51
+Mannouba;lettres;Public;F;240
+Mannouba;lettres;Privé;M;2
+Mannouba;lettres;Privé;F;2
+Mannouba;lettres;Libre;M;
+Mannouba;lettres;Libre;F;1
+Mannouba;mathématiques;Public;M;109
+Mannouba;mathématiques;Public;F;135
+Mannouba;mathématiques;Libre;M;
+Mannouba;mathématiques;Libre;F;
+Mannouba;sciences expérimentales;Public;M;75
+Mannouba;sciences expérimentales;Public;F;351
+Mannouba;sciences expérimentales;Privé;M;3
+Mannouba;sciences expérimentales;Privé;F;6
+Mannouba;sciences expérimentales;Libre;M;
+Mannouba;sciences expérimentales;Libre;F;
+Mannouba;économie&gestion;Public;M;271
+Mannouba;économie&gestion;Public;F;567
+Mannouba;économie&gestion;Privé;M;9
+Mannouba;économie&gestion;Privé;F;9
+Mannouba;économie&gestion;Libre;M;4
+Mannouba;économie&gestion;Libre;F;3
+Mannouba;sciences techniques;Public;M;214
+Mannouba;sciences techniques;Public;F;152
+Mannouba;sciences techniques;Privé;M;1
+Mannouba;sciences techniques;Privé;F;1
+Mannouba;sciences techniques;Libre;M;
+Mannouba;sciences techniques;Libre;F;
+Mannouba;sciences de l'informatique;Public;M;223
+Mannouba;sciences de l'informatique;Public;F;94
+Mannouba;sciences de l'informatique;Privé;M;2
+Mannouba;sciences de l'informatique;Privé;F;
+Mannouba;sciences de l'informatique;Libre;M;1
+Mannouba;sciences de l'informatique;Libre;F;
+Mannouba;sport;Public;M;21
+Mannouba;sport;Public;F;18
+Ben Arous;lettres;Public;M;106
+Ben Arous;lettres;Public;F;413
+Ben Arous;lettres;Privé;M;9
+Ben Arous;lettres;Privé;F;23
+Ben Arous;lettres;Libre;M;2
+Ben Arous;lettres;Libre;F;6
+Ben Arous;mathématiques;Public;M;244
+Ben Arous;mathématiques;Public;F;228
+Ben Arous;mathématiques;Privé;M;1
+Ben Arous;mathématiques;Privé;F;1
+Ben Arous;mathématiques;Libre;M;
+Ben Arous;mathématiques;Libre;F;2
+Ben Arous;sciences expérimentales;Public;M;211
+Ben Arous;sciences expérimentales;Public;F;762
+Ben Arous;sciences expérimentales;Privé;M;5
+Ben Arous;sciences expérimentales;Privé;F;10
+Ben Arous;sciences expérimentales;Libre;M;1
+Ben Arous;sciences expérimentales;Libre;F;3
+Ben Arous;économie&gestion;Public;M;626
+Ben Arous;économie&gestion;Public;F;1042
+Ben Arous;économie&gestion;Privé;M;78
+Ben Arous;économie&gestion;Privé;F;70
+Ben Arous;économie&gestion;Libre;M;6
+Ben Arous;économie&gestion;Libre;F;8
+Ben Arous;sciences techniques;Public;M;287
+Ben Arous;sciences techniques;Public;F;199
+Ben Arous;sciences techniques;Privé;M;4
+Ben Arous;sciences techniques;Privé;F;2
+Ben Arous;sciences techniques;Libre;M;2
+Ben Arous;sciences techniques;Libre;F;1
+Ben Arous;sciences de l'informatique;Public;M;567
+Ben Arous;sciences de l'informatique;Public;F;261
+Ben Arous;sciences de l'informatique;Privé;M;24
+Ben Arous;sciences de l'informatique;Privé;F;6
+Ben Arous;sciences de l'informatique;Libre;M;
+Ben Arous;sciences de l'informatique;Libre;F;
+Ben Arous;sport;Public;M;20
+Ben Arous;sport;Public;F;12
+Zaghouan;lettres;Public;M;38
+Zaghouan;lettres;Public;F;151
+Zaghouan;lettres;Privé;M;
+Zaghouan;lettres;Privé;F;1
+Zaghouan;lettres;Libre;M;
+Zaghouan;lettres;Libre;F;
+Zaghouan;mathématiques;Public;M;25
+Zaghouan;mathématiques;Public;F;27
+Zaghouan;mathématiques;Libre;F;1
+Zaghouan;sciences expérimentales;Public;M;35
+Zaghouan;sciences expérimentales;Public;F;144
+Zaghouan;sciences expérimentales;Libre;M;1
+Zaghouan;sciences expérimentales;Libre;F;
+Zaghouan;économie&gestion;Public;M;135
+Zaghouan;économie&gestion;Public;F;247
+Zaghouan;économie&gestion;Privé;M;4
+Zaghouan;économie&gestion;Privé;F;
+Zaghouan;économie&gestion;Libre;M;1
+Zaghouan;économie&gestion;Libre;F;
+Zaghouan;sciences techniques;Public;M;91
+Zaghouan;sciences techniques;Public;F;75
+Zaghouan;sciences techniques;Libre;M;
+Zaghouan;sciences techniques;Libre;F;
+Zaghouan;sciences de l'informatique;Public;M;18
+Zaghouan;sciences de l'informatique;Public;F;18
+Zaghouan;sciences de l'informatique;Libre;M;
+Zaghouan;sciences de l'informatique;Libre;F;
+Zaghouan;sport;Public;M;5
+Zaghouan;sport;Public;F;3
+Bizerte;lettres;Public;M;73
+Bizerte;lettres;Public;F;411
+Bizerte;lettres;Privé;M;7
+Bizerte;lettres;Privé;F;18
+Bizerte;lettres;Libre;M;
+Bizerte;lettres;Libre;F;2
+Bizerte;mathématiques;Public;M;154
+Bizerte;mathématiques;Public;F;193
+Bizerte;mathématiques;Privé;M;12
+Bizerte;mathématiques;Privé;F;9
+Bizerte;mathématiques;Libre;M;
+Bizerte;mathématiques;Libre;F;
+Bizerte;sciences expérimentales;Public;M;102
+Bizerte;sciences expérimentales;Public;F;523
+Bizerte;sciences expérimentales;Privé;M;8
+Bizerte;sciences expérimentales;Privé;F;22
+Bizerte;sciences expérimentales;Libre;M;
+Bizerte;sciences expérimentales;Libre;F;1
+Bizerte;économie&gestion;Public;M;439
+Bizerte;économie&gestion;Public;F;855
+Bizerte;économie&gestion;Privé;M;78
+Bizerte;économie&gestion;Privé;F;61
+Bizerte;économie&gestion;Libre;M;6
+Bizerte;économie&gestion;Libre;F;1
+Bizerte;sciences techniques;Public;M;271
+Bizerte;sciences techniques;Public;F;158
+Bizerte;sciences techniques;Privé;M;11
+Bizerte;sciences techniques;Privé;F;1
+Bizerte;sciences techniques;Libre;M;2
+Bizerte;sciences techniques;Libre;F;1
+Bizerte;sciences de l'informatique;Public;M;239
+Bizerte;sciences de l'informatique;Public;F;128
+Bizerte;sciences de l'informatique;Privé;M;4
+Bizerte;sciences de l'informatique;Privé;F;4
+Bizerte;sciences de l'informatique;Libre;M;1
+Bizerte;sciences de l'informatique;Libre;F;
+Bizerte;sport;Public;M;15
+Bizerte;sport;Public;F;18
+Bizerte;sport;Libre;M;
+Béja;lettres;Public;M;57
+Béja;lettres;Public;F;349
+Béja;lettres;Privé;M;7
+Béja;lettres;Privé;F;10
+Béja;lettres;Libre;M;1
+Béja;lettres;Libre;F;
+Béja;mathématiques;Public;M;53
+Béja;mathématiques;Public;F;41
+Béja;mathématiques;Libre;M;
+Béja;mathématiques;Libre;F;
+Béja;sciences expérimentales;Public;M;73
+Béja;sciences expérimentales;Public;F;263
+Béja;sciences expérimentales;Privé;M;
+Béja;sciences expérimentales;Privé;F;
+Béja;sciences expérimentales;Libre;M;
+Béja;sciences expérimentales;Libre;F;3
+Béja;économie&gestion;Public;M;159
+Béja;économie&gestion;Public;F;358
+Béja;économie&gestion;Privé;M;6
+Béja;économie&gestion;Privé;F;3
+Béja;économie&gestion;Libre;M;2
+Béja;économie&gestion;Libre;F;1
+Béja;sciences techniques;Public;M;155
+Béja;sciences techniques;Public;F;121
+Béja;sciences techniques;Libre;M;1
+Béja;sciences techniques;Libre;F;
+Béja;sciences de l'informatique;Public;M;54
+Béja;sciences de l'informatique;Public;F;32
+Béja;sciences de l'informatique;Privé;M;
+Béja;sciences de l'informatique;Privé;F;
+Béja;sciences de l'informatique;Libre;M;
+Béja;sciences de l'informatique;Libre;F;
+Béja;sport;Public;M;20
+Béja;sport;Public;F;12
+Béja;sport;Libre;M;
+Béja;sport;Libre;F;
+Jendouba;lettres;Public;M;72
+Jendouba;lettres;Public;F;352
+Jendouba;lettres;Privé;M;4
+Jendouba;lettres;Privé;F;4
+Jendouba;lettres;Libre;M;
+Jendouba;lettres;Libre;F;1
+Jendouba;mathématiques;Public;M;59
+Jendouba;mathématiques;Public;F;90
+Jendouba;mathématiques;Libre;F;
+Jendouba;sciences expérimentales;Public;M;68
+Jendouba;sciences expérimentales;Public;F;303
+Jendouba;sciences expérimentales;Privé;M;
+Jendouba;sciences expérimentales;Privé;F;
+Jendouba;sciences expérimentales;Libre;M;
+Jendouba;sciences expérimentales;Libre;F;
+Jendouba;économie&gestion;Public;M;202
+Jendouba;économie&gestion;Public;F;403
+Jendouba;économie&gestion;Privé;M;13
+Jendouba;économie&gestion;Privé;F;5
+Jendouba;économie&gestion;Libre;M;3
+Jendouba;économie&gestion;Libre;F;9
+Jendouba;sciences techniques;Public;M;168
+Jendouba;sciences techniques;Public;F;155
+Jendouba;sciences techniques;Libre;M;3
+Jendouba;sciences techniques;Libre;F;
+Jendouba;sciences de l'informatique;Public;M;77
+Jendouba;sciences de l'informatique;Public;F;41
+Jendouba;sciences de l'informatique;Libre;M;
+Jendouba;sciences de l'informatique;Libre;F;
+Jendouba;sport;Public;M;22
+Jendouba;sport;Public;F;10
+Siliana;lettres;Public;M;82
+Siliana;lettres;Public;F;337
+Siliana;lettres;Privé;M;
+Siliana;lettres;Privé;F;2
+Siliana;lettres;Libre;M;2
+Siliana;lettres;Libre;F;3
+Siliana;mathématiques;Public;M;40
+Siliana;mathématiques;Public;F;49
+Siliana;mathématiques;Libre;M;
+Siliana;mathématiques;Libre;F;
+Siliana;sciences expérimentales;Public;M;54
+Siliana;sciences expérimentales;Public;F;197
+Siliana;sciences expérimentales;Libre;M;
+Siliana;sciences expérimentales;Libre;F;
+Siliana;économie&gestion;Public;M;110
+Siliana;économie&gestion;Public;F;210
+Siliana;économie&gestion;Libre;M;1
+Siliana;économie&gestion;Libre;F;1
+Siliana;sciences techniques;Public;M;152
+Siliana;sciences techniques;Public;F;101
+Siliana;sciences techniques;Libre;M;
+Siliana;sciences techniques;Libre;F;
+Siliana;sciences de l'informatique;Public;M;29
+Siliana;sciences de l'informatique;Public;F;14
+Siliana;sciences de l'informatique;Libre;M;
+Siliana;sciences de l'informatique;Libre;F;
+Siliana;sport;Public;M;11
+Siliana;sport;Public;F;12
+Le Kef;lettres;Public;M;71
+Le Kef;lettres;Public;F;309
+Le Kef;lettres;Privé;M;4
+Le Kef;lettres;Privé;F;4
+Le Kef;lettres;Libre;M;1
+Le Kef;lettres;Libre;F;1
+Le Kef;mathématiques;Public;M;49
+Le Kef;mathématiques;Public;F;37
+Le Kef;mathématiques;Libre;M;
+Le Kef;mathématiques;Libre;F;
+Le Kef;sciences expérimentales;Public;M;91
+Le Kef;sciences expérimentales;Public;F;292
+Le Kef;sciences expérimentales;Libre;M;
+Le Kef;sciences expérimentales;Libre;F;1
+Le Kef;économie&gestion;Public;M;158
+Le Kef;économie&gestion;Public;F;238
+Le Kef;économie&gestion;Libre;M;1
+Le Kef;économie&gestion;Libre;F;3
+Le Kef;sciences techniques;Public;M;139
+Le Kef;sciences techniques;Public;F;92
+Le Kef;sciences techniques;Libre;M;
+Le Kef;sciences techniques;Libre;F;2
+Le Kef;sciences de l'informatique;Public;M;23
+Le Kef;sciences de l'informatique;Public;F;8
+Le Kef;sciences de l'informatique;Libre;M;
+Le Kef;sciences de l'informatique;Libre;F;
+Le Kef;sport;Public;M;14
+Le Kef;sport;Public;F;10
+Le Kef;sport;Libre;M;
+Kasserine;lettres;Public;M;118
+Kasserine;lettres;Public;F;542
+Kasserine;lettres;Privé;M;15
+Kasserine;lettres;Privé;F;30
+Kasserine;lettres;Libre;M;10
+Kasserine;lettres;Libre;F;16
+Kasserine;mathématiques;Public;M;35
+Kasserine;mathématiques;Public;F;53
+Kasserine;mathématiques;Privé;M;13
+Kasserine;mathématiques;Privé;F;14
+Kasserine;mathématiques;Libre;M;
+Kasserine;mathématiques;Libre;F;1
+Kasserine;sciences expérimentales;Public;M;162
+Kasserine;sciences expérimentales;Public;F;442
+Kasserine;sciences expérimentales;Privé;M;20
+Kasserine;sciences expérimentales;Privé;F;38
+Kasserine;sciences expérimentales;Libre;M;3
+Kasserine;sciences expérimentales;Libre;F;5
+Kasserine;économie&gestion;Public;M;183
+Kasserine;économie&gestion;Public;F;411
+Kasserine;économie&gestion;Privé;M;3
+Kasserine;économie&gestion;Privé;F;10
+Kasserine;économie&gestion;Libre;M;5
+Kasserine;économie&gestion;Libre;F;2
+Kasserine;sciences techniques;Public;M;196
+Kasserine;sciences techniques;Public;F;95
+Kasserine;sciences techniques;Libre;M;5
+Kasserine;sciences techniques;Libre;F;1
+Kasserine;sciences de l'informatique;Public;M;49
+Kasserine;sciences de l'informatique;Public;F;33
+Kasserine;sciences de l'informatique;Privé;M;
+Kasserine;sciences de l'informatique;Privé;F;
+Kasserine;sciences de l'informatique;Libre;M;
+Kasserine;sciences de l'informatique;Libre;F;
+Kasserine;sport;Public;M;34
+Kasserine;sport;Public;F;21
+Sidi Bouzid;lettres;Public;M;124
+Sidi Bouzid;lettres;Public;F;458
+Sidi Bouzid;lettres;Privé;M;29
+Sidi Bouzid;lettres;Privé;F;28
+Sidi Bouzid;lettres;Libre;M;10
+Sidi Bouzid;lettres;Libre;F;26
+Sidi Bouzid;mathématiques;Public;M;61
+Sidi Bouzid;mathématiques;Public;F;65
+Sidi Bouzid;mathématiques;Privé;M;6
+Sidi Bouzid;mathématiques;Privé;F;5
+Sidi Bouzid;mathématiques;Libre;M;
+Sidi Bouzid;mathématiques;Libre;F;
+Sidi Bouzid;sciences expérimentales;Public;M;89
+Sidi Bouzid;sciences expérimentales;Public;F;339
+Sidi Bouzid;sciences expérimentales;Privé;M;26
+Sidi Bouzid;sciences expérimentales;Privé;F;57
+Sidi Bouzid;sciences expérimentales;Libre;M;1
+Sidi Bouzid;sciences expérimentales;Libre;F;5
+Sidi Bouzid;économie&gestion;Public;M;257
+Sidi Bouzid;économie&gestion;Public;F;614
+Sidi Bouzid;économie&gestion;Privé;M;37
+Sidi Bouzid;économie&gestion;Privé;F;27
+Sidi Bouzid;économie&gestion;Libre;M;13
+Sidi Bouzid;économie&gestion;Libre;F;24
+Sidi Bouzid;sciences techniques;Public;M;264
+Sidi Bouzid;sciences techniques;Public;F;190
+Sidi Bouzid;sciences techniques;Privé;M;31
+Sidi Bouzid;sciences techniques;Privé;F;12
+Sidi Bouzid;sciences techniques;Libre;M;1
+Sidi Bouzid;sciences techniques;Libre;F;2
+Sidi Bouzid;sciences de l'informatique;Public;M;44
+Sidi Bouzid;sciences de l'informatique;Public;F;13
+Sidi Bouzid;sciences de l'informatique;Libre;M;1
+Sidi Bouzid;sciences de l'informatique;Libre;F;
+Sidi Bouzid;sport;Public;M;42
+Sidi Bouzid;sport;Public;F;29
+Gafsa;lettres;Public;M;85
+Gafsa;lettres;Public;F;336
+Gafsa;lettres;Privé;M;6
+Gafsa;lettres;Privé;F;12
+Gafsa;lettres;Libre;M;5
+Gafsa;lettres;Libre;F;5
+Gafsa;mathématiques;Public;M;27
+Gafsa;mathématiques;Public;F;43
+Gafsa;mathématiques;Privé;M;19
+Gafsa;mathématiques;Privé;F;12
+Gafsa;mathématiques;Libre;M;1
+Gafsa;mathématiques;Libre;F;
+Gafsa;sciences expérimentales;Public;M;141
+Gafsa;sciences expérimentales;Public;F;416
+Gafsa;sciences expérimentales;Privé;M;48
+Gafsa;sciences expérimentales;Privé;F;73
+Gafsa;sciences expérimentales;Libre;M;1
+Gafsa;sciences expérimentales;Libre;F;2
+Gafsa;économie&gestion;Public;M;76
+Gafsa;économie&gestion;Public;F;239
+Gafsa;économie&gestion;Privé;M;10
+Gafsa;économie&gestion;Privé;F;19
+Gafsa;économie&gestion;Libre;M;1
+Gafsa;économie&gestion;Libre;F;5
+Gafsa;sciences techniques;Public;M;139
+Gafsa;sciences techniques;Public;F;108
+Gafsa;sciences techniques;Privé;M;12
+Gafsa;sciences techniques;Privé;F;5
+Gafsa;sciences techniques;Libre;M;
+Gafsa;sciences techniques;Libre;F;5
+Gafsa;sciences de l'informatique;Public;M;69
+Gafsa;sciences de l'informatique;Public;F;49
+Gafsa;sciences de l'informatique;Privé;M;5
+Gafsa;sciences de l'informatique;Privé;F;2
+Gafsa;sciences de l'informatique;Libre;M;1
+Gafsa;sciences de l'informatique;Libre;F;
+Gafsa;sport;Public;M;28
+Gafsa;sport;Public;F;24
+Gafsa;sport;Libre;F;
+Tozeur;lettres;Public;M;25
+Tozeur;lettres;Public;F;88
+Tozeur;lettres;Privé;M;
+Tozeur;lettres;Privé;F;2
+Tozeur;lettres;Libre;M;1
+Tozeur;lettres;Libre;F;2
+Tozeur;mathématiques;Public;M;18
+Tozeur;mathématiques;Public;F;25
+Tozeur;mathématiques;Privé;M;4
+Tozeur;mathématiques;Privé;F;6
+Tozeur;sciences expérimentales;Public;M;38
+Tozeur;sciences expérimentales;Public;F;142
+Tozeur;sciences expérimentales;Privé;M;1
+Tozeur;sciences expérimentales;Privé;F;7
+Tozeur;sciences expérimentales;Libre;M;
+Tozeur;sciences expérimentales;Libre;F;1
+Tozeur;économie&gestion;Public;M;58
+Tozeur;économie&gestion;Public;F;156
+Tozeur;économie&gestion;Privé;M;6
+Tozeur;économie&gestion;Privé;F;10
+Tozeur;économie&gestion;Libre;M;1
+Tozeur;économie&gestion;Libre;F;3
+Tozeur;sciences techniques;Public;M;92
+Tozeur;sciences techniques;Public;F;74
+Tozeur;sciences techniques;Libre;M;1
+Tozeur;sciences techniques;Libre;F;1
+Tozeur;sciences de l'informatique;Public;M;16
+Tozeur;sciences de l'informatique;Public;F;17
+Tozeur;sciences de l'informatique;Privé;M;1
+Tozeur;sciences de l'informatique;Privé;F;1
+Tozeur;sciences de l'informatique;Libre;M;
+Tozeur;sciences de l'informatique;Libre;F;
+Tozeur;sport;Public;M;18
+Tozeur;sport;Public;F;7
+Tozeur;sport;Libre;M;
+Kébili;lettres;Public;M;28
+Kébili;lettres;Public;F;106
+Kébili;lettres;Privé;M;1
+Kébili;lettres;Privé;F;4
+Kébili;lettres;Libre;M;
+Kébili;lettres;Libre;F;1
+Kébili;mathématiques;Public;M;26
+Kébili;mathématiques;Public;F;23
+Kébili;mathématiques;Libre;M;
+Kébili;mathématiques;Libre;F;
+Kébili;sciences expérimentales;Public;M;49
+Kébili;sciences expérimentales;Public;F;197
+Kébili;sciences expérimentales;Privé;M;
+Kébili;sciences expérimentales;Privé;F;2
+Kébili;sciences expérimentales;Libre;M;
+Kébili;sciences expérimentales;Libre;F;1
+Kébili;économie&gestion;Public;M;88
+Kébili;économie&gestion;Public;F;219
+Kébili;économie&gestion;Privé;M;13
+Kébili;économie&gestion;Privé;F;10
+Kébili;économie&gestion;Libre;M;3
+Kébili;économie&gestion;Libre;F;3
+Kébili;sciences techniques;Public;M;96
+Kébili;sciences techniques;Public;F;80
+Kébili;sciences techniques;Libre;M;
+Kébili;sciences techniques;Libre;F;
+Kébili;sciences de l'informatique;Public;M;31
+Kébili;sciences de l'informatique;Public;F;23
+Kébili;sciences de l'informatique;Libre;M;
+Kébili;sciences de l'informatique;Libre;F;
+Kébili;sport;Public;M;20
+Kébili;sport;Public;F;10
+Kébili;sport;Libre;M;
+Kébili;sport;Libre;F;
+Tataouine;lettres;Public;M;12
+Tataouine;lettres;Public;F;126
+Tataouine;lettres;Privé;M;1
+Tataouine;lettres;Privé;F;9
+Tataouine;lettres;Libre;M;
+Tataouine;lettres;Libre;F;3
+Tataouine;mathématiques;Public;M;6
+Tataouine;mathématiques;Public;F;9
+Tataouine;mathématiques;Libre;F;
+Tataouine;sciences expérimentales;Public;M;45
+Tataouine;sciences expérimentales;Public;F;143
+Tataouine;sciences expérimentales;Privé;M;
+Tataouine;sciences expérimentales;Privé;F;
+Tataouine;sciences expérimentales;Libre;M;
+Tataouine;sciences expérimentales;Libre;F;1
+Tataouine;économie&gestion;Public;M;64
+Tataouine;économie&gestion;Public;F;192
+Tataouine;économie&gestion;Privé;M;2
+Tataouine;économie&gestion;Privé;F;
+Tataouine;économie&gestion;Libre;M;2
+Tataouine;économie&gestion;Libre;F;2
+Tataouine;sciences techniques;Public;M;81
+Tataouine;sciences techniques;Public;F;49
+Tataouine;sciences techniques;Libre;M;1
+Tataouine;sciences techniques;Libre;F;1
+Tataouine;sciences de l'informatique;Public;M;30
+Tataouine;sciences de l'informatique;Public;F;14
+Tataouine;sciences de l'informatique;Libre;F;
+Médenine;lettres;Public;M;55
+Médenine;lettres;Public;F;411
+Médenine;lettres;Privé;M;3
+Médenine;lettres;Privé;F;15
+Médenine;lettres;Libre;M;1
+Médenine;lettres;Libre;F;4
+Médenine;mathématiques;Public;M;109
+Médenine;mathématiques;Public;F;117
+Médenine;mathématiques;Libre;M;1
+Médenine;mathématiques;Libre;F;
+Médenine;sciences expérimentales;Public;M;122
+Médenine;sciences expérimentales;Public;F;505
+Médenine;sciences expérimentales;Privé;M;4
+Médenine;sciences expérimentales;Privé;F;3
+Médenine;sciences expérimentales;Libre;M;
+Médenine;sciences expérimentales;Libre;F;1
+Médenine;économie&gestion;Public;M;231
+Médenine;économie&gestion;Public;F;709
+Médenine;économie&gestion;Privé;M;20
+Médenine;économie&gestion;Privé;F;31
+Médenine;économie&gestion;Libre;M;4
+Médenine;économie&gestion;Libre;F;4
+Médenine;sciences techniques;Public;M;229
+Médenine;sciences techniques;Public;F;176
+Médenine;sciences techniques;Privé;M;8
+Médenine;sciences techniques;Privé;F;4
+Médenine;sciences techniques;Libre;M;1
+Médenine;sciences techniques;Libre;F;2
+Médenine;sciences de l'informatique;Public;M;230
+Médenine;sciences de l'informatique;Public;F;109
+Médenine;sciences de l'informatique;Privé;M;16
+Médenine;sciences de l'informatique;Privé;F;1
+Médenine;sciences de l'informatique;Libre;M;
+Médenine;sciences de l'informatique;Libre;F;
+Médenine;sport;Public;M;24
+Médenine;sport;Public;F;13
+Médenine;sport;Libre;M;
+Gabès;lettres;Public;M;46
+Gabès;lettres;Public;F;313
+Gabès;lettres;Privé;M;4
+Gabès;lettres;Privé;F;10
+Gabès;lettres;Libre;M;1
+Gabès;lettres;Libre;F;4
+Gabès;mathématiques;Public;M;80
+Gabès;mathématiques;Public;F;101
+Gabès;mathématiques;Privé;M;3
+Gabès;mathématiques;Privé;F;3
+Gabès;mathématiques;Libre;M;1
+Gabès;mathématiques;Libre;F;
+Gabès;sciences expérimentales;Public;M;97
+Gabès;sciences expérimentales;Public;F;445
+Gabès;sciences expérimentales;Privé;M;
+Gabès;sciences expérimentales;Privé;F;4
+Gabès;sciences expérimentales;Libre;M;1
+Gabès;sciences expérimentales;Libre;F;
+Gabès;économie&gestion;Public;M;207
+Gabès;économie&gestion;Public;F;573
+Gabès;économie&gestion;Privé;M;10
+Gabès;économie&gestion;Privé;F;23
+Gabès;économie&gestion;Libre;M;3
+Gabès;économie&gestion;Libre;F;2
+Gabès;sciences techniques;Public;M;232
+Gabès;sciences techniques;Public;F;113
+Gabès;sciences techniques;Privé;M;
+Gabès;sciences techniques;Privé;F;
+Gabès;sciences techniques;Libre;M;1
+Gabès;sciences techniques;Libre;F;1
+Gabès;sciences de l'informatique;Public;M;102
+Gabès;sciences de l'informatique;Public;F;59
+Gabès;sciences de l'informatique;Privé;M;6
+Gabès;sciences de l'informatique;Privé;F;
+Gabès;sciences de l'informatique;Libre;M;
+Gabès;sciences de l'informatique;Libre;F;
+Gabès;sport;Public;M;22
+Gabès;sport;Public;F;26
+Sfax 1;lettres;Public;M;58
+Sfax 1;lettres;Public;F;315
+Sfax 1;lettres;Privé;M;10
+Sfax 1;lettres;Privé;F;26
+Sfax 1;lettres;Libre;M;1
+Sfax 1;lettres;Libre;F;2
+Sfax 1;mathématiques;Public;M;316
+Sfax 1;mathématiques;Public;F;305
+Sfax 1;mathématiques;Privé;M;4
+Sfax 1;mathématiques;Privé;F;
+Sfax 1;mathématiques;Libre;M;
+Sfax 1;mathématiques;Libre;F;1
+Sfax 1;sciences expérimentales;Public;M;204
+Sfax 1;sciences expérimentales;Public;F;643
+Sfax 1;sciences expérimentales;Privé;M;6
+Sfax 1;sciences expérimentales;Privé;F;4
+Sfax 1;sciences expérimentales;Libre;M;
+Sfax 1;sciences expérimentales;Libre;F;1
+Sfax 1;économie&gestion;Public;M;443
+Sfax 1;économie&gestion;Public;F;883
+Sfax 1;économie&gestion;Privé;M;107
+Sfax 1;économie&gestion;Privé;F;104
+Sfax 1;économie&gestion;Libre;M;5
+Sfax 1;économie&gestion;Libre;F;2
+Sfax 1;sciences techniques;Public;M;405
+Sfax 1;sciences techniques;Public;F;169
+Sfax 1;sciences techniques;Privé;M;30
+Sfax 1;sciences techniques;Privé;F;14
+Sfax 1;sciences techniques;Libre;M;3
+Sfax 1;sciences techniques;Libre;F;
+Sfax 1;sciences de l'informatique;Public;M;108
+Sfax 1;sciences de l'informatique;Public;F;50
+Sfax 1;sciences de l'informatique;Privé;M;9
+Sfax 1;sciences de l'informatique;Privé;F;2
+Sfax 1;sciences de l'informatique;Libre;M;
+Sfax 1;sciences de l'informatique;Libre;F;
+Sfax 1;sport;Public;M;54
+Sfax 1;sport;Public;F;51
+Sfax 1;sport;Libre;M;
+Sfax 1;sport;Libre;F;
+Sfax 2;lettres;Public;M;52
+Sfax 2;lettres;Public;F;212
+Sfax 2;lettres;Privé;M;
+Sfax 2;lettres;Privé;F;4
+Sfax 2;lettres;Libre;M;
+Sfax 2;lettres;Libre;F;3
+Sfax 2;mathématiques;Public;M;177
+Sfax 2;mathématiques;Public;F;163
+Sfax 2;mathématiques;Libre;M;
+Sfax 2;mathématiques;Libre;F;2
+Sfax 2;sciences expérimentales;Public;M;155
+Sfax 2;sciences expérimentales;Public;F;514
+Sfax 2;sciences expérimentales;Libre;M;
+Sfax 2;sciences expérimentales;Libre;F;
+Sfax 2;économie&gestion;Public;M;357
+Sfax 2;économie&gestion;Public;F;667
+Sfax 2;économie&gestion;Privé;M;6
+Sfax 2;économie&gestion;Privé;F;4
+Sfax 2;économie&gestion;Libre;M;2
+Sfax 2;économie&gestion;Libre;F;5
+Sfax 2;sciences techniques;Public;M;315
+Sfax 2;sciences techniques;Public;F;122
+Sfax 2;sciences techniques;Libre;M;
+Sfax 2;sciences techniques;Libre;F;
+Sfax 2;sciences de l'informatique;Public;M;75
+Sfax 2;sciences de l'informatique;Public;F;30
+Sfax 2;sciences de l'informatique;Libre;M;
+Sfax 2;sciences de l'informatique;Libre;F;
+Mahdia;lettres;Public;M;68
+Mahdia;lettres;Public;F;409
+Mahdia;lettres;Privé;M;6
+Mahdia;lettres;Privé;F;14
+Mahdia;lettres;Libre;M;
+Mahdia;lettres;Libre;F;6
+Mahdia;mathématiques;Public;M;77
+Mahdia;mathématiques;Public;F;127
+Mahdia;mathématiques;Libre;M;
+Mahdia;mathématiques;Libre;F;
+Mahdia;sciences expérimentales;Public;M;93
+Mahdia;sciences expérimentales;Public;F;361
+Mahdia;sciences expérimentales;Libre;M;
+Mahdia;sciences expérimentales;Libre;F;1
+Mahdia;économie&gestion;Public;M;242
+Mahdia;économie&gestion;Public;F;558
+Mahdia;économie&gestion;Privé;M;9
+Mahdia;économie&gestion;Privé;F;22
+Mahdia;économie&gestion;Libre;M;1
+Mahdia;économie&gestion;Libre;F;3
+Mahdia;sciences techniques;Public;M;236
+Mahdia;sciences techniques;Public;F;202
+Mahdia;sciences techniques;Privé;M;5
+Mahdia;sciences techniques;Privé;F;2
+Mahdia;sciences techniques;Libre;M;
+Mahdia;sciences techniques;Libre;F;
+Mahdia;sciences de l'informatique;Public;M;83
+Mahdia;sciences de l'informatique;Public;F;55
+Mahdia;sciences de l'informatique;Libre;M;
+Mahdia;sciences de l'informatique;Libre;F;
+Mahdia;sport;Public;M;19
+Mahdia;sport;Public;F;32
+Kairouan;lettres;Public;M;63
+Kairouan;lettres;Public;F;424
+Kairouan;lettres;Privé;M;7
+Kairouan;lettres;Privé;F;26
+Kairouan;lettres;Libre;M;2
+Kairouan;lettres;Libre;F;5
+Kairouan;mathématiques;Public;M;73
+Kairouan;mathématiques;Public;F;94
+Kairouan;mathématiques;Privé;M;22
+Kairouan;mathématiques;Privé;F;11
+Kairouan;mathématiques;Libre;M;
+Kairouan;mathématiques;Libre;F;
+Kairouan;sciences expérimentales;Public;M;106
+Kairouan;sciences expérimentales;Public;F;431
+Kairouan;sciences expérimentales;Privé;M;16
+Kairouan;sciences expérimentales;Privé;F;49
+Kairouan;sciences expérimentales;Libre;M;
+Kairouan;sciences expérimentales;Libre;F;
+Kairouan;économie&gestion;Public;M;282
+Kairouan;économie&gestion;Public;F;667
+Kairouan;économie&gestion;Privé;M;42
+Kairouan;économie&gestion;Privé;F;47
+Kairouan;économie&gestion;Libre;M;2
+Kairouan;économie&gestion;Libre;F;9
+Kairouan;sciences techniques;Public;M;230
+Kairouan;sciences techniques;Public;F;174
+Kairouan;sciences techniques;Privé;M;27
+Kairouan;sciences techniques;Privé;F;13
+Kairouan;sciences techniques;Libre;M;1
+Kairouan;sciences techniques;Libre;F;4
+Kairouan;sciences de l'informatique;Public;M;82
+Kairouan;sciences de l'informatique;Public;F;53
+Kairouan;sciences de l'informatique;Privé;M;12
+Kairouan;sciences de l'informatique;Privé;F;3
+Kairouan;sciences de l'informatique;Libre;M;
+Kairouan;sciences de l'informatique;Libre;F;
+Kairouan;sport;Public;M;33
+Kairouan;sport;Public;F;28
+Kairouan;sport;Libre;M;
+Kairouan;sport;Libre;F;
+Monastir;lettres;Public;M;66
+Monastir;lettres;Public;F;423
+Monastir;lettres;Privé;M;5
+Monastir;lettres;Privé;F;12
+Monastir;lettres;Libre;M;3
+Monastir;lettres;Libre;F;3
+Monastir;mathématiques;Public;M;220
+Monastir;mathématiques;Public;F;237
+Monastir;mathématiques;Privé;M;9
+Monastir;mathématiques;Privé;F;9
+Monastir;mathématiques;Libre;M;
+Monastir;mathématiques;Libre;F;1
+Monastir;sciences expérimentales;Public;M;144
+Monastir;sciences expérimentales;Public;F;628
+Monastir;sciences expérimentales;Privé;M;7
+Monastir;sciences expérimentales;Privé;F;13
+Monastir;sciences expérimentales;Libre;M;
+Monastir;sciences expérimentales;Libre;F;
+Monastir;économie&gestion;Public;M;371
+Monastir;économie&gestion;Public;F;951
+Monastir;économie&gestion;Privé;M;44
+Monastir;économie&gestion;Privé;F;53
+Monastir;économie&gestion;Libre;M;8
+Monastir;économie&gestion;Libre;F;6
+Monastir;sciences techniques;Public;M;462
+Monastir;sciences techniques;Public;F;388
+Monastir;sciences techniques;Privé;M;41
+Monastir;sciences techniques;Privé;F;19
+Monastir;sciences techniques;Libre;M;1
+Monastir;sciences techniques;Libre;F;1
+Monastir;sciences de l'informatique;Public;M;192
+Monastir;sciences de l'informatique;Public;F;136
+Monastir;sciences de l'informatique;Privé;M;3
+Monastir;sciences de l'informatique;Privé;F;
+Monastir;sciences de l'informatique;Libre;M;
+Monastir;sciences de l'informatique;Libre;F;
+Monastir;sport;Public;M;58
+Monastir;sport;Public;F;58
+Sousse;lettres;Public;M;135
+Sousse;lettres;Public;F;602
+Sousse;lettres;Privé;M;2
+Sousse;lettres;Privé;F;12
+Sousse;lettres;Libre;M;1
+Sousse;lettres;Libre;F;6
+Sousse;mathématiques;Public;M;231
+Sousse;mathématiques;Public;F;256
+Sousse;mathématiques;Privé;M;22
+Sousse;mathématiques;Privé;F;21
+Sousse;mathématiques;Libre;M;
+Sousse;mathématiques;Libre;F;
+Sousse;sciences expérimentales;Public;M;132
+Sousse;sciences expérimentales;Public;F;646
+Sousse;sciences expérimentales;Privé;M;22
+Sousse;sciences expérimentales;Privé;F;63
+Sousse;sciences expérimentales;Libre;M;
+Sousse;sciences expérimentales;Libre;F;1
+Sousse;économie&gestion;Public;M;495
+Sousse;économie&gestion;Public;F;922
+Sousse;économie&gestion;Privé;M;65
+Sousse;économie&gestion;Privé;F;51
+Sousse;économie&gestion;Libre;M;1
+Sousse;économie&gestion;Libre;F;2
+Sousse;sciences techniques;Public;M;564
+Sousse;sciences techniques;Public;F;393
+Sousse;sciences techniques;Privé;M;77
+Sousse;sciences techniques;Privé;F;24
+Sousse;sciences techniques;Libre;M;
+Sousse;sciences techniques;Libre;F;
+Sousse;sciences de l'informatique;Public;M;174
+Sousse;sciences de l'informatique;Public;F;75
+Sousse;sciences de l'informatique;Privé;M;4
+Sousse;sciences de l'informatique;Privé;F;
+Sousse;sciences de l'informatique;Libre;M;
+Sousse;sciences de l'informatique;Libre;F;
+Sousse;sport;Public;M;74
+Sousse;sport;Public;F;52
+Nabeul;lettres;Public;M;107
+Nabeul;lettres;Public;F;570
+Nabeul;lettres;Privé;M;5
+Nabeul;lettres;Privé;F;18
+Nabeul;lettres;Libre;M;1
+Nabeul;lettres;Libre;F;4
+Nabeul;mathématiques;Public;M;176
+Nabeul;mathématiques;Public;F;240
+Nabeul;mathématiques;Privé;M;28
+Nabeul;mathématiques;Privé;F;26
+Nabeul;mathématiques;Libre;M;
+Nabeul;mathématiques;Libre;F;
+Nabeul;sciences expérimentales;Public;M;157
+Nabeul;sciences expérimentales;Public;F;683
+Nabeul;sciences expérimentales;Privé;M;11
+Nabeul;sciences expérimentales;Privé;F;53
+Nabeul;sciences expérimentales;Libre;M;2
+Nabeul;sciences expérimentales;Libre;F;
+Nabeul;économie&gestion;Public;M;530
+Nabeul;économie&gestion;Public;F;1016
+Nabeul;économie&gestion;Privé;M;120
+Nabeul;économie&gestion;Privé;F;112
+Nabeul;économie&gestion;Libre;M;6
+Nabeul;économie&gestion;Libre;F;8
+Nabeul;sciences techniques;Public;M;382
+Nabeul;sciences techniques;Public;F;285
+Nabeul;sciences techniques;Privé;M;32
+Nabeul;sciences techniques;Privé;F;11
+Nabeul;sciences techniques;Libre;M;
+Nabeul;sciences techniques;Libre;F;3
+Nabeul;sciences de l'informatique;Public;M;326
+Nabeul;sciences de l'informatique;Public;F;257
+Nabeul;sciences de l'informatique;Privé;M;29
+Nabeul;sciences de l'informatique;Privé;F;8
+Nabeul;sciences de l'informatique;Libre;M;
+Nabeul;sciences de l'informatique;Libre;F;1
+Nabeul;sport;Public;M;25
+Nabeul;sport;Public;F;29
