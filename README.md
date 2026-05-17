@@ -9,7 +9,8 @@ Projet d'analyse des données du bac tunisien.
 - Streamlit
 - Git
 - GitHub
-
+## Objectif
+Analyser les résultats du bac.
 ## Membres
 - Souhail kamel
 - arij turki
